@@ -1,4 +1,4 @@
-package com.lsy.demo.dto;
+package demo.dto;
 
 import com.fasterxml.jackson.annotation.JsonFormat;
 

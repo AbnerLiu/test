@@ -1,4 +1,4 @@
-package com.lsy.demo.dto;
+package demo.dto;
 
 import java.util.Map;
 
