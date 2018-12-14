@@ -1,7 +1,7 @@
 package demo.controller;
 
-import com.lsy.demo.dto.ParaDTO;
-import com.lsy.demo.dto.ResultDTO;
+import demo.dto.ParaDTO;
+import demo.dto.ResultDTO;
 import io.swagger.annotations.Api;
 import io.swagger.annotations.ApiImplicitParam;
 import org.springframework.beans.factory.annotation.Value;
